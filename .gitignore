@@ -1,0 +1,4 @@
+node_modules/
+cache/*.html
+*.csv
+yachts.json
